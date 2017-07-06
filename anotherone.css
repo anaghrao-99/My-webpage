@@ -1,0 +1,24 @@
+.navbar{
+	background:black;
+	border-bottom: 2px solid #734b6d;
+	font-family: 'Cormorant Garamond';
+}
+
+body
+{
+	font-family: 'Cormorant Garamond';
+	background-image: url('background.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+.jumbotron
+{
+
+	background-color: rgba(225 ,225 ,225, 0.5);
+}
+
+h3{
+	font-weight: 500;
+}
